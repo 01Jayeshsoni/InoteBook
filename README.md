@@ -1,6 +1,20 @@
 # iNoteBook
 
 iNoteBook is a web application that allows users to create and manage their notes online. It provides a user-friendly interface for creating, editing, and organizing notes. The frontend of the application is built using React.js, while the backend is developed using Node.js.
+# Login Page
+![Login Page](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/b56cecf1-1e16-4809-9024-0ce3282eef35)
+# Signup Page
+![Sign up page](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/3c75cd85-7583-49b8-adb2-473dcf106b3f)
+# Home Page
+![After User Login Home page](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/22380fd9-5f6c-40f3-bd10-ccbdbc3f6976)
+# Add a note
+![After add new note](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/e246cf7a-2e0d-4068-b6a3-307e558360a9)
+# Update note feature view
+![Update note feature view](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/c19c54e3-e3b7-46ed-8b9b-ecb1f52c0632)
+# Updation a note title
+![After updation of note](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/522f7da2-f089-46a4-8dfa-2d0aac18e2cc)
+# Delete Note
+![delete note](https://github.com/01Jayeshsoni/InoteBook/assets/122159441/63f50daf-bf9a-481b-b5f9-19d6ed3590c1)
 
 ## Features
 
